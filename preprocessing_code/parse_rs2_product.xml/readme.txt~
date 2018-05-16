@@ -1,0 +1,6 @@
+# this is for RS2 product in order to get the latitude and longitudes information for each pixels in the SAR HH image
+step1: put these code inside the RS2 folder
+step2: execute the xmlparse.py: python xmlparse.py
+step3: python latlon_imfull.py
+step4: execute the matlab code  pro.m
+

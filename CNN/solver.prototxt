@@ -1,0 +1,16 @@
+net: "/home/lein/yan/caffe/finetunning_thesis/argu_par_ic/1fold_2013_parIC/train_val.prototxt"
+test_iter: 132
+test_interval: 1000
+base_lr: 0.001
+lr_policy: "step"
+gamma: 0.1
+stepsize: 20000
+display: 100
+max_iter: 50000
+momentum: 0.9
+weight_decay: 0.05
+snapshot: 1000
+snapshot_prefix: "/home/lein/yan/caffe/finetunning_thesis/argu_par_ic/1fold_2013_parIC/snapshot/"
+solver_mode: GPU
+
+
