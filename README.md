@@ -14,4 +14,4 @@ SAR Images in HH polarization and HV polarization and Incidence angle data
 ## Output data:
 predicted sea ice concentration for pixels in SAR images
 
-## The documentation explanatoin(thesis) about this study can be found in the following links 
+The documentation explanatoin(thesis) about this study can be found in the following links 
